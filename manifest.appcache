@@ -1,0 +1,38 @@
+CACHE MANIFEST
+# lwYjWg2nbJjGt56ZaKi+k2lpTgg=
+
+CACHE:
+\about.html
+\build.txt
+\css\app.css
+\css\install-button.css
+\img\.gitignore
+\img\b.png
+\img\glyphicons-halflings-white.png
+\img\glyphicons-halflings.png
+\img\mortar-128.png
+\img\mortar-16.png
+\img\mortar-48.png
+\img\mortar-60.png
+\img\Thumbs.db
+\index.html
+\js\app.js
+\js\codiqa.ext.js
+\js\init.js
+\js\install-button.js
+\js\jquery-1.9.1.min.js
+\js\jquery.mobile-1.3.1.min.js
+\js\lib\install.js
+\js\lib\receiptverifier.js
+\js\lib\require.js
+\js\lib\zepto.js
+\LICENSE
+\manifest.webapp
+\README.md
+
+# catch-all for anything else
+NETWORK:
+*
+
+FALLBACK:
+/ fallback.html

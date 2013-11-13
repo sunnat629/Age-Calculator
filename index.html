@@ -1,0 +1,68 @@
+<!doctype html>
+<html manifest="manifest.appcache">
+	<head>
+	<meta http-equiv="Content-Type" content="application/x-web-app-manifest+json; charset=UTF-8">
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+		
+		<title>Age Calculator</title>
+		<script src="app.js"></script>
+		<style src="app.css"></style>
+			<link rel="stylesheet" href="https://d10ajoocuyu32n.cloudfront.net/mobile/1.3.1/jquery.mobile-1.3.1.min.css">
+			<link rel="stylesheet" href="codiqa.ext.css">
+			<script src="jquery-1.9.1.min.js"></script>
+			<script src="jquery.mobile-1.3.1.min.js"></script>
+			<script src="codiqa.ext.js"></script>
+	</head>
+	
+	<body>
+		<button onclick="main()">Calculate</button><br>
+		
+		<div data-role="page" id="page1" class="ui-responsive-panel">
+		<div data-theme="b" data-role="header" >
+			<h4>
+				Age Calculator
+			</h4>
+			<a href="#nav-panel" data-icon="bars" data-iconpos="notext">Menu</a>
+		</div>
+		<div data-role="content">
+			<form name="dates">
+				<div data-role="fieldcontain">
+					<label for="textinput2">
+						Date of Birth
+					</label>
+					 <input name="inpt" id="textinput2" placeholder="YYYY-MM-DD" value="" type="date" >
+				</div>
+			</form>
+				<a href="#popupCloseRight" data-rel="popup" data-role="button" data-theme="b" onclick="main()">Calculate</a>
+		</div>
+		<div data-role="content">
+			<div data-role="popup" id="popupCloseRight" class="ui-content" style="max-width:280px">
+						<a href="#" data-rel="back" data-role="button" data-theme="a" data-icon="delete" data-iconpos="notext" class="ui-btn-right">Close</a>
+						<b>Your Birthday:</b><label id="bday">&nbsp Waiting...</label><br><br>
+						<b>Today:</b><label id="today">&nbsp Waiting...</label><br><br>
+						<b>Your actual age:</b><label id="byear">&nbsp Waiting...</label><br><br>
+						<b>In Year:</b><label id="year">&nbsp Waiting...</label><br><br>
+						<b>In Month:</b><label id="month">&nbsp Waiting...</label><br><br>
+						<b>In Week:</b><label id="week">&nbsp Waiting...</label><br><br>
+						<b>In Day:</b><label id="day">&nbsp Waiting...</label><br><br>
+						<b>In Hour:</b><label id="hour">&nbsp Waiting...</label><br><br>
+						<b>In Min:</b><label id="min">&nbsp Waiting...</label><br><br>
+						<b>In Sec:</b><label id="sec">&nbsp Waiting...</label><br>
+			</div>
+
+		</div>
+		<div data-role="panel" data-position="left" data-position-fixed="false" data-display="reveal" id="nav-panel" data-theme="b">
+
+					<ul data-role="listview" data-theme="b" data-divider-theme="b" style="margin-top:-16px;" class="nav-search">
+						<li>
+							<a href="index.html">Calculator</a>
+						</li>
+						<li>
+							<a href="about.html">About</a>
+						</li>
+					</ul>
+
+					<!-- panel content goes here -->
+				</div><!-- /panel -->
+	</div>
+	</body>	

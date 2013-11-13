@@ -1,0 +1,66 @@
+Manifest-Version: 1.0
+
+Name: about.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JIMtiJphTyfyAu6bIzMQOQ==
+SHA1-Digest: g4BelXyvXk5duLfuQZUVSgAaRMU=
+
+Name: app.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GgDZRPI++EhK1DhxLq7pbQ==
+SHA1-Digest: wuFHM5d7MwaqSoKdUtY4tZ87VFw=
+
+Name: codiqa.ext.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lh5kndznBJeZtQOEh7CbwQ==
+SHA1-Digest: 8F8GqKyakohrWcAeJtrc9GH1Bto=
+
+Name: index.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HkBGQj4A3lN+3nIFX04D1A==
+SHA1-Digest: nTqM/oqLifNY93enI2FWW3r6ti0=
+
+Name: jquery-1.9.1.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ODdx7xaSv8w/K2kXyphXeA==
+SHA1-Digest: oc4L+lB/I8xBSpp2NL1zuZS7OzU=
+
+Name: jquery.mobile-1.3.1.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: c+z+FXi2B7EJpP4N8hjAbg==
+SHA1-Digest: lTdRqtN8unZWhrjRTzKt6O+6wsk=
+
+Name: manifest.webapp
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6iI8Benj6x6QBPrSAH2ERw==
+SHA1-Digest: ll+jQMeHiVJnRzvAxp7yEh5hT8A=
+
+Name: img/b.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kJcN00HlqKsiPhPrp+A6vA==
+SHA1-Digest: xPgZ5LYtGa4hBiIU4TjscUuagHg=
+
+Name: img/mortar-128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vJhw+MsY18Ch0THQTW9P+A==
+SHA1-Digest: +Lfj96SHWCgJ9P6V8x0a3q9a5F8=
+
+Name: img/mortar-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ItBczOxq5dNTjFBH1zZNNQ==
+SHA1-Digest: EnehJoSmpgULem4yppY4VMp+i+o=
+
+Name: img/mortar-48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QLzNqnB5x74N/8ocg6z9OA==
+SHA1-Digest: QyTgd8y6kCPvncPhzcfcoiBICmA=
+
+Name: img/mortar-60.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wlrHDQKx5MhHptCNsvXVYA==
+SHA1-Digest: ZdnTef9ZkPy/6Bh7uO9OQjrudeU=
+
+Name: META-INF/ids.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SBCdqlrkg1rp9u7UAZlS+A==
+SHA1-Digest: eEJ3QR5sxZGR8bYdY8JAapbRzJ0=
